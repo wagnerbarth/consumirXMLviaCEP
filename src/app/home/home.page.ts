@@ -11,7 +11,7 @@ import { HTTP } from '@ionic-native/http/ngx';
 export class HomePage implements OnInit {
 
   items: any[] = []; // array
-  cep: string; // property binding
+
 
   constructor(
     private ngxXml2jsonService: NgxXml2jsonService,
