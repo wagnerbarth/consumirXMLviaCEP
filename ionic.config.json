@@ -1,5 +1,7 @@
 {
   "name": "apixml",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
